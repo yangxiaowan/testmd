@@ -8,21 +8,15 @@
 #### 1.2.1 python windows安装:
 推荐使用python3.6稳定版本，改版本为项目测试和线上部署版本
 #### 1.2.2 python linux安装:
-+ 下载python3.6
-'''
-cd /home/download
-wget https://www.python.org/ftp/python/3.6.2/Python-3.6.2.tgz
-'''
-+ 安装、编译
-'''
-tar -xf Python-3.6.2.tgz
-cd Python-3.6.2
-./configure
-make & make install
-'''
+##### 下载python3.6
+    cd /home/download
+    wget https://www.python.org/ftp/python/3.6.2/Python-3.6.2.tgz
+##### 安装、编译
+    tar -xf Python-3.6.2.tgz
+    cd Python-3.6.2
+    ./configure
+    make & make install
 ## 2.项目部属和运行
 ## 3.项目结构
 ## 4.开发指南
 ## 5.注意事项
-
-
